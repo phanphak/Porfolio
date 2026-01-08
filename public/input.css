@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.nav_header li a{
+    color: rgb(109, 107, 107);
+    font-weight: bold;
+    
+
+}
+.nav_header li a:hover{
+    color: yellowgreen;
+    
+}
